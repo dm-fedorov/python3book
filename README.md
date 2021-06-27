@@ -4,3 +4,6 @@
 
 Заказать пособие можно по ссылке: https://urait.ru/bcode/478098
 
+
+![my book](https://raw.githubusercontent.com/dm-fedorov/python3book/master/pic/my_book.jpg)
+
